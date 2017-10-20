@@ -1,0 +1,3 @@
+rootProject.name = 'SuperDuper'
+
+include ':app'
