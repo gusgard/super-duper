@@ -46,8 +46,8 @@ module.exports = {
     "no-confusing-arrow": 0,
     "react/jsx-filename-extension": 0,
     "no-console": 0,
-    "prettier/prettier": ["error", {
-      "singleQuote": true,
-    }],
+    // "prettier/prettier": ["error", {
+    //   "singleQuote": true,
+    // }],
   },
 };
